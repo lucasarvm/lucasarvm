@@ -9,12 +9,12 @@
  Curso introdutório em Cybersecurity (Cisco).
 
 
-  ##⚙️ Tecnologias e Conhecimentos
+  ## ⚙️ Tecnologias e Conhecimentos
 - atualemte trabalho como tecnico de informatica!
 - Realizo projetos como (CFTV e Rede Estruturada )
 - Fundamentos de Cybersecurity.
   
-##🎯 Meu objetivo:
+## 🎯 Meu objetivo:
 Criar meus primeiros projetos práticos e conseguir a minha primeira oportunidade na área de tecnologia.
 
 
