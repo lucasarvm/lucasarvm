@@ -5,8 +5,8 @@
 ## 🎓 Estou no início da minha jornada na programação e focado em aprender novas tecnologias todos os dias.
 
 ##📍Sobre Mim
--  Atualmente Estudante do curso Análise e Desenvolvimento de Sistemas (ADS).
-- Curso introdutório em Cybersecurity (Cisco).
+ Atualmente Estudante do curso Análise e Desenvolvimento de Sistemas (ADS)
+ Curso introdutório em Cybersecurity (Cisco).
 
 
   ##⚙️ Tecnologias e Conhecimentos
