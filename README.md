@@ -1,6 +1,6 @@
 ## Lucas Alexandre!👋
 
-## focado no futuro 🚀!
+## focado no futuro 🚀
 
 ## 🎓 Estou no início da minha jornada na programação e focado em aprender novas tecnologias todos os dias.
 
