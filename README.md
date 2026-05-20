@@ -6,13 +6,13 @@
 
 ##📍Sobre Mim
 -  Atualmente Estudante do curso Análise e Desenvolvimento de Sistemas (ADS).
-- Curso introdutório em Cybersecurity (Cisco)
+- Curso introdutório em Cybersecurity (Cisco).
 
 
   ##⚙️ Tecnologias e Conhecimentos
 - atualemte trabalho como tecnico de informatica!
 - Realizo projetos como (CFTV e Rede Estruturada )
-- Fundamentos de Cybersecurity
+- Fundamentos de Cybersecurity.
   
 ##🎯 Meu objetivo:
 Criar meus primeiros projetos práticos e conseguir a minha primeira oportunidade na área de tecnologia.
